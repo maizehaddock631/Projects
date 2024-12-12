@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TVSeason
+comment0.text=\r\n\ \r\n\r\n\ @author\ Jhardelle\ Haye\r\n\ @version\ 12.12.2024\r\n
+comment1.params=seasonNumber\ yearOfRelease\ noOfEpisodes
+comment1.target=TVSeason(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TVSeason\r\n
+comment2.params=
+comment2.target=int\ getSeasonNumber()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=int\ getYearOfRelease()
+comment4.params=
+comment4.target=int\ getNumberofEpisodes()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=int\ hashCode()
+numComments=7
